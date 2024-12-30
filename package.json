@@ -1,0 +1,21 @@
+{
+  "name": "js-crash-2024",
+  "version": "1.0.0",
+  "description": "node.js crash code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "nazil",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  },
+  "dependencies": {
+    "axios": "^1.7.7",
+    "dotenv": "^16.4.5",
+    "lodash": "^4.17.21",
+    "minimist": "^1.2.8"
+  }
+}
